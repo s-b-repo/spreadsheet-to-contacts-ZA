@@ -1,7 +1,9 @@
 # South African Phone Number Standardizer
 
 This Python script standardizes South African phone numbers from a spreadsheet (Excel or CSV) into the international format and exports them to a CSV file and a vCard (VCF) file. 
+
 ##credits
+
 https://github.com/MeatBoyed
 ---
 
